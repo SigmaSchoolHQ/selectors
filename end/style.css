@@ -1,0 +1,54 @@
+/*
+selector {
+  property: value;
+} 
+*/
+
+/* IDs  */
+#wrapper {
+	margin: 40px;
+	text-align: center;
+	background-color: deepskyblue;
+}
+
+/* #first-h2,
+#second-paragraph {
+	color: magenta;
+} */
+
+/* Classes */
+.magenta-text {
+	color: magenta;
+	text-decoration: underline;
+	padding: 20px;
+	border: 3px solid magenta;
+}
+
+.dashed-border {
+	border: 3px dashed magenta;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
+
+.big-text {
+	font-size: 150%;
+}
+
+/* Elements */
+
+body {
+	/* font-style: italic;
+	font-weight: 700;
+	font-size: 90%;
+	font-family: sans-serif; */
+	font: italic 700 90% sans-serif;
+}
+
+h1,
+h2,
+h3 {
+	color: springgreen;
+	background-color: black;
+}
