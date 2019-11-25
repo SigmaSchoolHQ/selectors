@@ -16,6 +16,14 @@ selector {
 	color: magenta;
 } */
 
+#yellow {
+	color: yellow;
+}
+
+#small-text {
+	font-size: 50%;
+}
+
 /* Classes */
 .magenta-text {
 	color: magenta;
@@ -28,6 +36,8 @@ selector {
 	border: 3px dashed magenta;
 }
 
+p,
+#yellow,
 .uppercase {
 	text-transform: uppercase;
 }
